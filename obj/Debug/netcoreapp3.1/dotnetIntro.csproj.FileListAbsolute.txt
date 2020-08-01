@@ -1,0 +1,12 @@
+/Users/alyssanycum/workspace/personal/dotnetIntro/bin/Debug/netcoreapp3.1/dotnetIntro.deps.json
+/Users/alyssanycum/workspace/personal/dotnetIntro/bin/Debug/netcoreapp3.1/dotnetIntro.runtimeconfig.json
+/Users/alyssanycum/workspace/personal/dotnetIntro/bin/Debug/netcoreapp3.1/dotnetIntro.runtimeconfig.dev.json
+/Users/alyssanycum/workspace/personal/dotnetIntro/bin/Debug/netcoreapp3.1/dotnetIntro.dll
+/Users/alyssanycum/workspace/personal/dotnetIntro/bin/Debug/netcoreapp3.1/dotnetIntro.pdb
+/Users/alyssanycum/workspace/personal/dotnetIntro/obj/Debug/netcoreapp3.1/dotnetIntro.csprojAssemblyReference.cache
+/Users/alyssanycum/workspace/personal/dotnetIntro/obj/Debug/netcoreapp3.1/dotnetIntro.AssemblyInfoInputs.cache
+/Users/alyssanycum/workspace/personal/dotnetIntro/obj/Debug/netcoreapp3.1/dotnetIntro.AssemblyInfo.cs
+/Users/alyssanycum/workspace/personal/dotnetIntro/obj/Debug/netcoreapp3.1/dotnetIntro.csproj.CoreCompileInputs.cache
+/Users/alyssanycum/workspace/personal/dotnetIntro/obj/Debug/netcoreapp3.1/dotnetIntro.dll
+/Users/alyssanycum/workspace/personal/dotnetIntro/obj/Debug/netcoreapp3.1/dotnetIntro.pdb
+/Users/alyssanycum/workspace/personal/dotnetIntro/obj/Debug/netcoreapp3.1/dotnetIntro.genruntimeconfig.cache
